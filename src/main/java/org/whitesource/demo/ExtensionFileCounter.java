@@ -1,4 +1,4 @@
-package org.whitesource.file.counter;
+package org.whitesource.demo;
 
 import java.io.File;
 import java.io.IOException;
